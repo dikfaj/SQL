@@ -1,4 +1,6 @@
-## Maven Toys Store 
+## Mexico Toys Sales
+
+Mexico Toys sales merupakan dataset yang terdiri dari 4 tabel yaitu sales, product, inventory, dan stores yang dapat diunduh [disini](https://www.mavenanalytics.io/data-playground?search=toy). Dibawah ini adalah query SQL untuk menjawab pertanyaan terkait dataset.
 
 ### 1. Berapa total sales dari semua toko?
 ```sql
