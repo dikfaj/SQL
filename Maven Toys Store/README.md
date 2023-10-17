@@ -246,7 +246,7 @@ GROUP BY 1,2,3
 ORDER BY 4 DESC;
 ```
 product_name         |product_price|product_cost|margin_percentage|
----------------------+-------------+------------+-----------------+
+---------------------|-------------|------------|-----------------|
 Jenga                |         9.99|        2.99|           234.11|
 Mini Basketball Hoop |        24.99|        8.99|           177.98|
 Playfoam             |        10.99|        3.99|           175.44|
@@ -376,7 +376,7 @@ WHERE ranking = 1
 ORDER BY 1;
 ```
 store_name                   |product_name      |total_sold|
------------------------------+------------------+----------+
+-----------------------------|------------------|----------|
 Maven Toys Aguascalientes 1  |Colorbuds         |      2096|
 Maven Toys Campeche 1        |Mini Ping Pong Set|      4244|
 Maven Toys Campeche 2        |Barrel O' Slime   |      1849|
